@@ -1,7 +1,7 @@
-### ENTER YOUR NAME: SARGURU K
-### ENTER YOUR REGISTER NO.212222230134
-### DATE:
-<H3>EX. NO.3</H3>
+<H3>ENTER YOUR NAME : SARGURU K</H3>
+<H3>ENTER YOUR REGISTER NO. 212222230134</H3>
+<H3>EX. NO.2</H3>
+<H3>DATE : </H3>
 <H2 aligh = center> Implementation of MLP for a non-linearly separable data</H2>
 <h3>Aim:</h3>
 To implement a perceptron for classification using Python
